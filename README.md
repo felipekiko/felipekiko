@@ -26,6 +26,7 @@
 			"Games",
 			"Music",
 			"Movies",
+			"Trailers",
 			"Nintendo"
 		]
 	}
