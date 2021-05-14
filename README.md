@@ -4,16 +4,16 @@
 {
 	"KiKo": {
 		"work": {
-			"where": "GFT",
-			"doing": "Cloud Architect"
+			"where": "iFood",
+			"doing": "FinOps Specialist"
 		},
 		"tech": [
 			"PHP",
 			"Python",
-			"mysql",
-			"openSuse",
+			"MySQL",
+			"OpenSuse",
 			"AWS",
-			"docker",
+			"Docker",
 			"terraform",
 			"packer",
 			"Moodle",
@@ -27,6 +27,7 @@
 			"Music",
 			"Movies",
 			"Trailers",
+			"Travel|,
 			"Nintendo"
 		]
 	}
