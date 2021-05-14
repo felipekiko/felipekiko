@@ -27,7 +27,7 @@
 			"Music",
 			"Movies",
 			"Trailers",
-			"Travel|,
+			"Travel",
 			"Nintendo"
 		]
 	}
