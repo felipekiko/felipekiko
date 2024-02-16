@@ -4,8 +4,8 @@
 {
 	"KiKo": {
 		"work": {
-			"where": "iFood",
-			"doing": "FinOps Specialist"
+			"where": "Venturus",
+			"doing": "Cloud Architect, Developer, and FinOps Specialist"
 		},
 		"tech": [
 			"PHP",
@@ -24,11 +24,11 @@
 			"Anna",
 			"Joyce",
 			"Games",
+			"Nintendo",
 			"Music",
 			"Movies",
 			"Trailers",
-			"Travel",
-			"Nintendo"
+			"Travel"
 		]
 	}
 }
