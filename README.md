@@ -18,13 +18,15 @@
 			"packer",
 			"Moodle",
 			"VSCode",
-			"shell"
+			"shell",
+			"AI"
 		],
 		"loves": [
 			"Anna",
 			"Joyce",
 			"Games",
 			"Nintendo",
+			"Pokemon",
 			"Music",
 			"Movies",
 			"Trailers",
